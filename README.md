@@ -33,7 +33,7 @@ Reduce file sizes up to 90% while maintaining stunning quality.
 **Latest Version 1.0.0 – Stable Release for Desktop**
 
 **Windows**
-- Standard Installer (.exe) – Win 10/11 x64
+- Standalone (.exe) – Win 10/11 x64
 
 **Linux**
 - DEB Package – Direct Download
@@ -42,4 +42,5 @@ Reduce file sizes up to 90% while maintaining stunning quality.
 ---
 
 ## Screenshots
-*Coming Soon!*  
+![ClipLite Screenshot](https://github.com/user-attachments/assets/e90657db-30fb-49f8-9288-271dff8f1fce)
+  
